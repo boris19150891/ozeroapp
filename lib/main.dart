@@ -230,7 +230,7 @@ class _ButtonWidgetState extends State<ButtonWidget> {
         ],
       ),
     );
-  }
+  } // test
 
   Column _buildButtonColumn ({
     Color colorFirst,
